@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "246744837822",
+    "firebase_url": "https://d-vision-90f82.firebaseio.com",
+    "project_id": "d-vision-90f82",
+    "storage_bucket": "d-vision-90f82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246744837822:android:5f877002b3cb8840e5f8ef",
+        "android_client_info": {
+          "package_name": "com.example.d_vision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246744837822-u4jna9geuj9hl6jqpgiq8g4b5qjf5q2m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.d_vision",
+            "certificate_hash": "1ccf24b60aa1e6b79e27148b814cc4bcbaba494f"
+          }
+        },
+        {
+          "client_id": "246744837822-88n2eguikki1sa3c0fn7bt22ndksk0da.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR6qeFTFWWRdjT1seAMV-_5E3k5doM7lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246744837822-88n2eguikki1sa3c0fn7bt22ndksk0da.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
